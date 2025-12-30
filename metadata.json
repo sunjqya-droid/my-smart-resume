@@ -1,0 +1,5 @@
+{
+  "name": "AquaFlow - 准时喝水提醒",
+  "description": "简约清新的饮水追踪工具，在每日 09:00 至 18:00 之间发送整点通知，助您保持水分充足。",
+  "requestFramePermissions": []
+}
